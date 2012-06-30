@@ -27,3 +27,9 @@ Mac OS X Cocoa:
 ### Pre-Emacs 24
 
 Not supported, sorry.
+
+## Alternative Version
+
+This theme was inspired by the dark-on-light [Twilight Bright][bright] theme.
+
+[bright]: https://github.com/jimeh/twilight-bright-theme.el
