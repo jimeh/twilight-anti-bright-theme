@@ -8,7 +8,8 @@ Twilight Bright TextMate theme by [Florian Pichler][pichfl].
 ## Supported Editors
 
 * Emacs
-* TextMate (beta version)
+* TextMate (beta)
+* Any editor with support for TextMate themes
 
 ## Preview
 
