@@ -1,4 +1,4 @@
-;;; twilight-bright-theme.el --- A Emacs 24 faces port of the TextMate theme
+;;; twilight-anti-bright-theme.el --- A soothing Emacs 24 light-on-dark theme
 ;;
 ;; Copyright (c) 2012 Jim Myhrberg.
 ;;
