@@ -15,13 +15,13 @@ Twilight Bright TextMate theme by [Florian Pichler][pichfl].
 Emacs (Mac OS X Cocoa):
 
 <div style="text-align: center">
-  <img src="https://github.com/jimeh/twilight-anti-bright-theme.el/raw/master/preview/emacs-gui.png" alt="preview" />
+  <img src="https://github.com/jimeh/twilight-anti-bright-theme/raw/master/preview/emacs-gui.png" alt="preview" />
 </div>
 
 TextMate:
 
 <div style="text-align: center">
-  <img src="https://github.com/jimeh/twilight-anti-bright-theme.el/raw/master/preview/textmate.png" alt="preview" />
+  <img src="https://github.com/jimeh/twilight-anti-bright-theme/raw/master/preview/textmate.png" alt="preview" />
 </div>
 
 ## Installation & Usage
@@ -40,7 +40,7 @@ TextMate:
 1. Download [Twilight Anti-Bright.tmtheme][tmtheme] and open it with TextMate.
 2. Done.
 
-[tmtheme]: https://github.com/jimeh/twilight-anti-bright-theme.el/raw/master/Twilight%20Anti-Bright.tmTheme
+[tmtheme]: https://github.com/jimeh/twilight-anti-bright-theme/raw/master/Twilight%20Anti-Bright.tmTheme
 
 ## Todos
 
