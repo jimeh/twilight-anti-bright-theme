@@ -5,6 +5,11 @@ Twilight Bright TextMate theme by [Florian Pichler][pichfl].
 
 [pichfl]: http://einserver.de/goodies
 
+## Supported Editors
+
+* Emacs
+* TextMate (beta version)
+
 ## Preview
 
 Emacs (Mac OS X Cocoa):
@@ -18,11 +23,6 @@ TextMate:
 <div style="text-align: center">
   <img src="https://github.com/jimeh/twilight-anti-bright-theme.el/raw/master/preview/textmate.png" alt="preview" />
 </div>
-
-## Supported Editors
-
-* Emacs
-* TextMate (beta version)
 
 ## Installation & Usage
 
