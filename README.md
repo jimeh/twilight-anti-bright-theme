@@ -1,17 +1,28 @@
 # Twilight Anti-Bright
 
-A light-on-dark Emacs theme inspired by the dark-on-light Twilight Bright
-TextMate theme by [Florian Pichler][pichfl].
+A light-on-dark Emacs and TextMate theme inspired by the dark-on-light
+Twilight Bright TextMate theme by [Florian Pichler][pichfl].
 
 [pichfl]: http://einserver.de/goodies
 
 ## Preview
 
-Mac OS X Cocoa:
+Emacs (Mac OS X Cocoa):
 
 <div style="text-align: center">
-  <img src="https://github.com/jimeh/twilight-anti-bright-theme.el/raw/master/preview/gui.png" alt="preview" />
+  <img src="https://github.com/jimeh/twilight-anti-bright-theme.el/raw/master/preview/emacs-gui.png" alt="preview" />
 </div>
+
+TextMate:
+
+<div style="text-align: center">
+  <img src="https://github.com/jimeh/twilight-anti-bright-theme.el/raw/master/preview/textmate.png" alt="preview" />
+</div>
+
+## Supported Editors
+
+* Emacs
+* TextMate (beta version)
 
 ## Installation & Usage
 
@@ -24,7 +35,12 @@ Mac OS X Cocoa:
     - `(load-theme twilight-anti-bright t)`
 3. Reload the init file, or restart Emacs.
 
-### Pre-Emacs 24
+### TextMate
+
+1. Download [Twilight Anti-Bright.tmtheme][tmtheme] and open it with TextMate.
+2. Done.
+
+[tmtheme]: https://github.com/jimeh/twilight-anti-bright-theme.el/raw/master/Twilight%20Anti-Bright.tmTheme
 
 Not supported, sorry.
 
