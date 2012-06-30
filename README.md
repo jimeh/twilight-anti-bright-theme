@@ -5,6 +5,14 @@ TextMate theme by [Florian Pichler][pichfl].
 
 [pichfl]: http://einserver.de/goodies
 
+## Preview
+
+Mac OS X Cocoa:
+
+<div style="text-align: center">
+  <img src="https://github.com/jimeh/twilight-anti-bright-theme.el/raw/master/preview/gui.png" alt="preview" />
+</div>
+
 ## Installation & Usage
 
 ### Emacs 24
