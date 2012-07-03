@@ -3,7 +3,7 @@
 ;; Copyright (c) 2012 Jim Myhrberg.
 ;;
 ;; Author: Jim Myhrberg <contact@jimeh.me>
-;; Version: 0.1.0
+;; Version: 0.1.1
 ;; Keywords: themes
 ;; URL: https://github.com/jimeh/twilight-anti-bright-theme.el
 ;;
