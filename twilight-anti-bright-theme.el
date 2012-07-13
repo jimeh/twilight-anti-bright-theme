@@ -40,6 +40,14 @@
 ;; light-on-dark themes, so I set out to create such a theme inspired by
 ;; Twilight Bright. This is the result :)
 ;;
+;;; Change Log:
+;;
+;; 2012-07-03 (0.1.1):
+;;    Make ECB foreground text colors a bit brighter.
+;;
+;; 2012-06-30 (0.1.0):
+;;    Initial release.
+;;
 ;;; Code:
 
 (deftheme twilight-anti-bright
