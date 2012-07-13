@@ -46,11 +46,11 @@
   "A soothing light-on-dark theme.")
 
 (let ((background "#14191f")
-      (foreground "#d0d1d2")
+      (foreground "#dcdddd")
       (selection "#313c4d")
       (hl-line "#11151a")
       (cursor "#b4b4b4")
-      (comment "#545255")
+      (comment "#716d73")
 
       (gray-1 "#878289")   (gray-1bg "#181d23")
       (gray-2 "#2a3441")
