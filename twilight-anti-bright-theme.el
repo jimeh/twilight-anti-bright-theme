@@ -3,7 +3,7 @@
 ;; Copyright (c) 2012 Jim Myhrberg.
 ;;
 ;; Author: Jim Myhrberg <contact@jimeh.me>
-;; Version: 0.1.1
+;; Version: 0.2.0
 ;; Keywords: themes
 ;; URL: https://github.com/jimeh/twilight-anti-bright-theme.el
 ;;
@@ -41,6 +41,9 @@
 ;; Twilight Bright. This is the result :)
 ;;
 ;;; Change Log:
+;;
+;; 2012-07-13 (0.2.0):
+;;    Make default and comment foreground colors a bit brighter.
 ;;
 ;; 2012-07-03 (0.1.1):
 ;;    Make ECB foreground text colors a bit brighter.
