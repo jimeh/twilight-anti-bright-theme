@@ -29,6 +29,11 @@ TextMate:
 
 ### Emacs 24
 
+If you're using [MELPA][] there's a `twilight-anti-bright-theme` package
+available. Otherwise follow these instructions:
+
+[melpa]: http://melpa.milkbox.net/
+
 1. Add the `twilight-anti-bright-theme` directory to your Emacs `load-path`
    and `custom-theme-load-path`.
 2. Add one of the following to your Emacs init file:
