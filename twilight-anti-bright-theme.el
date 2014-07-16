@@ -71,6 +71,7 @@
       (gray-6 "#192028")
       (red-1 "#d15120")    (red-1bg "#2a1f1f")
       (red-2 "#b23f1e")    (red-2bg "#251c1e")
+      (red-3 "#c6350b")
       (brown-1 "#9f621d")  (brown-1bg "#2a1f1f")
       (orange-1 "#d97a35") (orange-1bg "#272122")
       (yellow-1 "#deae3e") (yellow-1bg "#2a2921")
@@ -94,6 +95,7 @@
    `(hl-line ((t (:background ,hl-line))))
    `(minibuffer-prompt ((t (:foreground ,orange-1 :background ,orange-1bg))))
    `(escape-glyph ((t (:foreground ,purple-1 :background , purple-1bg))))
+   `(error ((t (:foreground ,red-3))))
 
    ;; Font-lock stuff
    `(font-lock-builtin-face ((t (:foreground ,yellow-1 :background ,yellow-1bg))))
