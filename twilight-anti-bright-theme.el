@@ -115,7 +115,7 @@
 
    ;; UI related
    `(link ((t (:foreground ,blue-1 :background ,blue-1bg))))
-   `(fringe ((t (:foreground ,comment :background3 ,gray-1bg))))
+   `(fringe ((t (:foreground ,comment :background ,gray-1bg))))
    `(mode-line ((t (:foreground ,blue-1 :background ,blue-2bg))))
    `(mode-line-inactive ((t (:foreground ,blue-4 :background ,gray-4))))
    `(vertical-border ((t (:background ,background :foreground ,gray-5))))
