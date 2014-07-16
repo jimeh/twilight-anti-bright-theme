@@ -69,6 +69,7 @@
       (gray-4 "#1f2730")
       (gray-5 "#242d38")
       (gray-6 "#192028")
+      (gray-7 "#39424d")
       (red-1 "#d15120")    (red-1bg "#2a1f1f")
       (red-2 "#b23f1e")    (red-2bg "#251c1e")
       (red-3 "#c6350b")
@@ -120,7 +121,7 @@
    `(vertical-border ((t (:background ,background :foreground ,gray-5))))
 
    ;; Linum
-   `(linum ((t (:foreground ,gray-2 :background ,gray-1bg))))
+   `(linum ((t (:foreground ,gray-7 :background ,gray-1bg))))
 
    ;; show-paren-mode
    `(show-paren-match ((t (:foreground ,orange-1 :background ,orange-1bg))))
