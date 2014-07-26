@@ -155,6 +155,10 @@
    `(highlight-indentation-face ((t (:background ,gray-1bg))))
    `(highlight-indentation-current-column-face ((t (:background ,gray-4))))
 
+   ;; yascroll
+   `(yascroll:thumb-fringe ((t (:foreground ,gray-2 :background ,gray-2))))
+   `(yascroll:thumb-text-area ((t (:background ,gray-2))))
+
    ;; ECB
    `(ecb-default-general-face ((t (:foreground ,gray-3 :background ,gray-1bg))))
    `(ecb-default-highlight-face ((t (:foreground ,red-1 :background ,red-1bg))))
