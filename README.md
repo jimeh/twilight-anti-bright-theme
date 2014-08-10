@@ -43,6 +43,8 @@ available. Otherwise follow these instructions:
 
 ### TextMate
 
+_**Note**: I no longer maintain the TextMate version._
+
 1. Download [Twilight Anti-Bright.tmtheme][tmtheme] and open it with TextMate.
 2. Done.
 
