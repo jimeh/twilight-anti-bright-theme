@@ -159,6 +159,11 @@
    `(yascroll:thumb-fringe ((t (:foreground ,gray-2 :background ,gray-2))))
    `(yascroll:thumb-text-area ((t (:background ,gray-2))))
 
+   ;; git-gutter
+   `(git-gutter:added ((t (:foreground ,green-1 :weight bold))))
+   `(git-gutter:deleted ((t (:foreground ,red-1 :weight bold))))
+   `(git-gutter:modified ((t (:foreground ,purple-1 :weight bold))))
+
    ;; ECB
    `(ecb-default-general-face ((t (:foreground ,gray-3 :background ,gray-1bg))))
    `(ecb-default-highlight-face ((t (:foreground ,red-1 :background ,red-1bg))))
