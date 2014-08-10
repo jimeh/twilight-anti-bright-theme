@@ -59,7 +59,7 @@
 (let ((background "#14191f")
       (foreground "#dcdddd")
       (selection "#313c4d")
-      (hl-line "#11151a")
+      (hl-line "#1b2129")
       (cursor "#b4b4b4")
       (comment "#716d73")
 
