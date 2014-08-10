@@ -3,7 +3,7 @@
 ;; Copyright (c) 2012 Jim Myhrberg.
 ;;
 ;; Author: Jim Myhrberg <contact@jimeh.me>
-;; Version: 0.2.0
+;; Version: 0.3.0
 ;; Keywords: themes
 ;; URL: https://github.com/jimeh/twilight-anti-bright-theme.el
 ;;
@@ -41,6 +41,13 @@
 ;; Twilight Bright. This is the result :)
 ;;
 ;;; Change Log:
+;;
+;; 2014-08-10 (0.3.0):
+;;    - Tweaked fringe foreground color.
+;;    - Made linum foreground color a bit brighter and more readable.
+;;    - Added face definitions for yascroll.
+;;    - Added face definitions for git-gutter.
+;;    - Changed hl-line color from a dark to a light color.
 ;;
 ;; 2012-07-13 (0.2.0):
 ;;    Make default and comment foreground colors a bit brighter.
