@@ -1,6 +1,6 @@
 ;;; twilight-anti-bright-theme.el --- A soothing Emacs 24 light-on-dark theme
 ;;
-;; Copyright (c) 2012 Jim Myhrberg.
+;; Copyright (c) 2014 Jim Myhrberg.
 ;;
 ;; Author: Jim Myhrberg <contact@jimeh.me>
 ;; Version: 0.3.0
