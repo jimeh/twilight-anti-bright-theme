@@ -3,7 +3,7 @@
 ;; Copyright (c) 2014 Jim Myhrberg.
 ;;
 ;; Author: Jim Myhrberg <contact@jimeh.me>
-;; Version: 0.3.0
+;; Version: 0.3.1
 ;; Keywords: themes
 ;; URL: https://github.com/jimeh/twilight-anti-bright-theme.el
 ;;
@@ -41,6 +41,9 @@
 ;; Twilight Bright. This is the result :)
 ;;
 ;;; Change Log:
+;;
+;; 2016-06-22 (0.3.1):
+;;    - Add support for highlight-indent-guide-mode.
 ;;
 ;; 2014-08-10 (0.3.0):
 ;;    - Tweaked fringe foreground color.
