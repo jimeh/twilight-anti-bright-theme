@@ -162,6 +162,10 @@
    `(highlight-indentation-face ((t (:background ,gray-1bg))))
    `(highlight-indentation-current-column-face ((t (:background ,gray-4))))
 
+   ;; highlight-indent-guide-model
+   `(highlight-indent-guides-odd-face ((t (:background ,gray-1bg))))
+   `(highlight-indent-guides-even-face ((t (:background ,gray-6))))
+
    ;; yascroll
    `(yascroll:thumb-fringe ((t (:foreground ,gray-2 :background ,gray-2))))
    `(yascroll:thumb-text-area ((t (:background ,gray-2))))
